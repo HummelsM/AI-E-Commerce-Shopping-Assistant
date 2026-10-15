@@ -1,0 +1,101 @@
+﻿Product_ID,Category,Product_Name,Price_USD,Brand,Description,Stock_Quantity,Currency,Supplier,Reorder_Level,Stock_Status,Fictional_Data
+EL001,Smartphones,Nova X Pro 256GB,1099,NovaTek,"Flagship smartphone with 6.7-inch OLED display, 256GB storage and 50MP camera",12,USD,NovaTek Distribution,5,In Stock,True
+EL002,Smartphones,Nova X 128GB,699,NovaTek,"Everyday smartphone with OLED display, 128GB storage and dual rear cameras",18,USD,NovaTek Distribution,5,In Stock,True
+EL003,Smartphones,Pulse A5 128GB,249,Pulse,"Budget smartphone with 6.5-inch display, 128GB storage and long-life battery",25,USD,Pulse Distribution,5,In Stock,True
+EL004,Smartphones,Pulse A5 Plus 256GB,329,Pulse,Large-screen smartphone with 256GB storage and fast charging,16,USD,Pulse Distribution,5,In Stock,True
+EL005,Smartphones,Orbit Z Fold,1999,Orbit,Foldable smartphone with inner flexible display and 512GB storage,5,USD,Orbit Distribution,5,Low Stock,True
+EL006,Smartphones,Orbit Z Flip,1499,Orbit,Compact foldable smartphone with external preview screen,7,USD,Orbit Distribution,5,Reorder Soon,True
+EL007,Smartphones,Terra Max 5G,599,Terra,"5G smartphone with 6.8-inch display, 256GB storage and triple camera",14,USD,Terra Distribution,5,In Stock,True
+EL008,Smartphones,Terra Lite 64GB,159,Terra,Entry-level smartphone with 64GB storage and expandable memory,30,USD,Terra Distribution,5,In Stock,True
+EL009,Smartphones,Vivid Note 13,499,Vivid,Large-display phone with stylus support and 256GB storage,11,USD,Vivid Distribution,5,In Stock,True
+EL010,Smartphones,Nova Mini 128GB,449,NovaTek,Compact smartphone with 128GB storage and lightweight design,9,USD,NovaTek Distribution,5,Reorder Soon,True
+EL011,Laptops,AeroBook 14,1299,Aero,"14-inch laptop with Core i5-class processor, 16GB RAM and 512GB SSD",8,USD,Aero Distribution,5,Reorder Soon,True
+EL012,Laptops,AeroBook 16 Pro,1899,Aero,16-inch performance laptop with 32GB RAM and 1TB SSD,5,USD,Aero Distribution,5,Low Stock,True
+EL013,Laptops,StudyMate 15,699,StudyMate,15.6-inch student laptop with 8GB RAM and 256GB SSD,14,USD,StudyMate Distribution,5,In Stock,True
+EL014,Laptops,CreatorBook OLED,2199,Aero,"Creator laptop with OLED screen, 32GB RAM and dedicated graphics",4,USD,Aero Distribution,5,Low Stock,True
+EL015,Laptops,GameForge 16,2499,GameForge,Gaming laptop with 16-inch high-refresh display and dedicated GPU,6,USD,GameForge Distribution,5,Reorder Soon,True
+EL016,Laptops,GameForge 17 Ultra,3299,GameForge,High-performance gaming laptop with 1TB SSD and advanced cooling,3,USD,GameForge Distribution,5,Low Stock,True
+EL017,Laptops,FlexNote 360,1499,FlexNote,Convertible touchscreen laptop with 16GB RAM and stylus support,7,USD,FlexNote Distribution,5,Reorder Soon,True
+EL018,Laptops,WorkMate 14,1199,WorkMate,"Business laptop with privacy shutter, 16GB RAM and fingerprint reader",9,USD,WorkMate Distribution,5,Reorder Soon,True
+EL019,Laptops,CloudBook Go,499,CloudBook,"Lightweight laptop for browsing, documents and online learning",20,USD,CloudBook Distribution,5,In Stock,True
+EL020,Laptops,MiniBook 13,1099,Aero,Portable 13-inch laptop with 16GB RAM and 512GB SSD,6,USD,Aero Distribution,5,Reorder Soon,True
+EL021,Tablets,TabView 11,499,NovaTek,11-inch tablet with 128GB storage and quad speakers,12,USD,NovaTek Distribution,5,In Stock,True
+EL022,Tablets,TabView 8 Kids,199,NovaTek,Child-friendly tablet with protective case and parental controls,18,USD,NovaTek Distribution,5,In Stock,True
+EL023,Tablets,SketchPad Pro 12,899,Vivid,"12-inch tablet designed for drawing, notes and creative work",5,USD,Vivid Distribution,5,Low Stock,True
+EL024,Tablets,ReadTab 10,249,ReadTab,10-inch tablet with eye-comfort mode and 64GB storage,15,USD,ReadTab Distribution,5,In Stock,True
+EL025,Tablets,TabView 11 LTE,699,NovaTek,11-inch tablet with cellular connectivity and 256GB storage,8,USD,NovaTek Distribution,5,Reorder Soon,True
+EL026,Tablets,FlexTab 2-in-1,799,FlexNote,Tablet with detachable keyboard cover and productivity features,6,USD,FlexNote Distribution,5,Reorder Soon,True
+EL027,Tablets,PocketTab 7,149,ReadTab,"Compact 7-inch tablet for reading, media and travel",22,USD,ReadTab Distribution,5,In Stock,True
+EL028,TVs & Displays,VisionQ 43 4K TV,599,VisionQ,43-inch 4K smart TV with built-in streaming apps,10,USD,VisionQ Distribution,5,Reorder Soon,True
+EL029,TVs & Displays,VisionQ 55 QLED,1099,VisionQ,55-inch QLED smart TV with HDR and voice control,7,USD,VisionQ Distribution,5,Reorder Soon,True
+EL030,TVs & Displays,VisionQ 65 Mini LED,1899,VisionQ,65-inch Mini LED TV with local dimming and gaming mode,3,USD,VisionQ Distribution,5,Low Stock,True
+EL031,TVs & Displays,HomeView 32 HD,299,HomeView,32-inch HD smart TV for bedrooms and smaller rooms,13,USD,HomeView Distribution,5,In Stock,True
+EL032,TVs & Displays,CinemaWall 75 4K,2899,VisionQ,75-inch 4K smart TV with immersive cinema picture mode,2,USD,VisionQ Distribution,5,Low Stock,True
+EL033,TVs & Displays,DeskView 24 IPS,189,DeskView,24-inch Full HD IPS monitor for office and home use,17,USD,DeskView Distribution,5,In Stock,True
+EL034,TVs & Displays,DeskView 27 QHD,399,DeskView,27-inch QHD monitor with adjustable stand,9,USD,DeskView Distribution,5,Reorder Soon,True
+EL035,TVs & Displays,GameScreen 27 180Hz,499,GameForge,27-inch gaming monitor with 180Hz refresh rate,6,USD,GameForge Distribution,5,Reorder Soon,True
+EL036,TVs & Displays,CreatorDisplay 32 4K,899,DeskView,32-inch 4K monitor with wide color coverage for creators,4,USD,DeskView Distribution,5,Low Stock,True
+EL037,TVs & Displays,PortableScreen 15.6,329,DeskView,Portable 15.6-inch USB-C monitor for travel and second-screen use,8,USD,DeskView Distribution,5,Reorder Soon,True
+EL038,Audio,SonicPods Pro,149,Sonic,Wireless earbuds with active noise cancellation and charging case,24,USD,Sonic Distribution,5,In Stock,True
+EL039,Audio,SonicPods Lite,49,Sonic,Compact wireless earbuds with touch controls,40,USD,Sonic Distribution,5,In Stock,True
+EL040,Audio,StudioHeadphones 700,249,Sonic,Over-ear wireless headphones with adaptive noise cancellation,13,USD,Sonic Distribution,5,In Stock,True
+EL041,Audio,BassBox 30,89,BassBox,Portable Bluetooth speaker with enhanced bass and splash resistance,21,USD,BassBox Distribution,5,In Stock,True
+EL042,Audio,BassBox Party 200,299,BassBox,"Large party speaker with lights, microphone input and deep bass",7,USD,BassBox Distribution,5,Reorder Soon,True
+EL043,Audio,SoundBar Cinema 2.1,279,HomeTone,2.1-channel soundbar with wireless subwoofer,9,USD,HomeTone Distribution,5,Reorder Soon,True
+EL044,Audio,SoundBar Atmos 5.1,499,HomeTone,Surround sound system with Dolby Atmos support,4,USD,HomeTone Distribution,5,Low Stock,True
+EL045,Audio,USB Podcast Mic,119,ClearCast,"USB microphone for streaming, calls and podcast recording",15,USD,ClearCast Distribution,5,In Stock,True
+EL046,Audio,Studio Monitor Pair,199,ClearCast,Pair of powered nearfield speakers for music production,5,USD,ClearCast Distribution,5,Low Stock,True
+EL047,Audio,ClipSpeaker Mini,35,Sonic,Small clip-on Bluetooth speaker for bags and outdoor use,32,USD,Sonic Distribution,5,In Stock,True
+EL048,Gaming,GamePad Wireless,99,GameForge,Wireless controller with vibration feedback and USB-C charging,20,USD,GameForge Distribution,5,In Stock,True
+EL049,Gaming,GamePad Pro,179,GameForge,Premium controller with programmable rear buttons,10,USD,GameForge Distribution,5,Reorder Soon,True
+EL050,Gaming,Console Nova 1TB,899,GameForge,Home gaming console with 1TB storage and wireless controller,6,USD,GameForge Distribution,5,Reorder Soon,True
+EL051,Gaming,Handheld Play 512GB,799,GameForge,Portable gaming device with 512GB storage and 7-inch display,5,USD,GameForge Distribution,5,Low Stock,True
+EL052,Gaming,RGB Mechanical Keyboard,89,KeyCraft,Mechanical keyboard with customizable RGB lighting,18,USD,KeyCraft Distribution,5,In Stock,True
+EL053,Gaming,Swift Gaming Mouse,49,KeyCraft,Lightweight gaming mouse with adjustable DPI,25,USD,KeyCraft Distribution,5,In Stock,True
+EL054,Gaming,Extended Mouse Mat,19,KeyCraft,Large desk mat with stitched edges and non-slip base,40,USD,KeyCraft Distribution,5,In Stock,True
+EL055,Gaming,Surround Gaming Headset,69,Sonic,Gaming headset with boom microphone and virtual surround sound,16,USD,Sonic Distribution,5,In Stock,True
+EL056,Gaming,USB Capture Card,119,StreamPro,Capture card for streaming console gameplay to a computer,8,USD,StreamPro Distribution,5,Reorder Soon,True
+EL057,Gaming,Gaming Chair Core,119,GameForge,Adjustable gaming chair with lumbar support and reclining back,4,USD,GameForge Distribution,5,Low Stock,True
+EL058,Smart Home,SmartHub Home,29,Nestory,Central hub for compatible smart-home devices and routines,12,USD,Nestory Distribution,5,In Stock,True
+EL059,Smart Home,Smart Bulb RGB 2-Pack,39,Nestory,Two app-controlled color bulbs with schedules and dimming,35,USD,Nestory Distribution,5,In Stock,True
+EL060,Smart Home,Smart Plug Duo,69,Nestory,Two Wi-Fi plugs with timers and energy-use monitoring,28,USD,Nestory Distribution,5,In Stock,True
+EL061,Smart Home,Indoor Cam 2K,149,SafeNest,2K indoor security camera with motion alerts and two-way audio,16,USD,SafeNest Distribution,5,In Stock,True
+EL062,Smart Home,Outdoor Cam Solar,119,SafeNest,Weather-resistant outdoor camera with solar charging option,7,USD,SafeNest Distribution,5,Reorder Soon,True
+EL063,Smart Home,Video Doorbell,89,SafeNest,"Smart doorbell with live video, motion alerts and visitor audio",9,USD,SafeNest Distribution,5,Reorder Soon,True
+EL064,Smart Home,Air Sensor Plus,139,Nestory,Indoor air-quality monitor with temperature and humidity readings,11,USD,Nestory Distribution,5,In Stock,True
+EL065,Smart Home,Smart Thermostat,499,Nestory,Programmable thermostat with app control for compatible systems,6,USD,Nestory Distribution,5,Reorder Soon,True
+EL066,Smart Home,Robot Vacuum R2,1399,CleanPath,"Robot vacuum with mapping, scheduled cleaning and app control",5,USD,CleanPath Distribution,5,Low Stock,True
+EL067,Smart Home,Smart Display 10,1699,Nestory,"10-inch smart display for video calls, media and home controls",8,USD,Nestory Distribution,5,Reorder Soon,True
+EL068,Cameras,SnapMirror M50,399,SnapMirror,Mirrorless camera body for photography and 4K video,4,USD,SnapMirror Distribution,5,Low Stock,True
+EL069,Cameras,SnapMirror Travel Kit,699,SnapMirror,Compact mirrorless camera kit with standard zoom lens,3,USD,SnapMirror Distribution,5,Low Stock,True
+EL070,Cameras,ActionCam X4,129,TrailShot,Rugged action camera with 4K recording and stabilization,9,USD,TrailShot Distribution,5,Reorder Soon,True
+EL071,Cameras,Pocket Gimbal Cam,39,TrailShot,Pocket camera with built-in gimbal for smooth travel videos,5,USD,TrailShot Distribution,5,Low Stock,True
+EL072,Cameras,Creator Webcam 4K,2099,ClearCast,4K webcam with autofocus for streaming and video meetings,12,USD,ClearCast Distribution,5,In Stock,True
+EL073,Cameras,Security Cam Indoor HD,79,SafeNest,Indoor HD camera with night vision and motion detection,22,USD,SafeNest Distribution,5,In Stock,True
+EL074,Cameras,Telephoto Lens 70-200,129,SnapMirror,Telephoto zoom lens for compatible mirrorless camera mounts,2,USD,SnapMirror Distribution,5,Low Stock,True
+EL075,Cameras,Camera Tripod Pro,329,TrailShot,Adjustable aluminum tripod with quick-release plate,14,USD,TrailShot Distribution,5,In Stock,True
+EL076,Networking,Wi-Fi 6 Router AX3000,49,NetSpring,Dual-band Wi-Fi 6 router for home and small-office networks,14,USD,NetSpring Distribution,5,In Stock,True
+EL077,Networking,Wi-Fi 7 Router BE6500,19,NetSpring,High-speed tri-band router for compatible Wi-Fi 7 devices,6,USD,NetSpring Distribution,5,Reorder Soon,True
+EL078,Networking,Mesh Wi-Fi 2-Pack,9,NetSpring,Two-node mesh kit for wider household wireless coverage,9,USD,NetSpring Distribution,5,Reorder Soon,True
+EL079,Networking,8-Port Gigabit Switch,39,NetSpring,Unmanaged 8-port gigabit Ethernet switch,18,USD,NetSpring Distribution,5,In Stock,True
+EL080,Networking,USB-C Ethernet Adapter,29,LinkPort,USB-C to gigabit Ethernet adapter for laptops and tablets,30,USD,LinkPort Distribution,5,In Stock,True
+EL081,Networking,4G LTE Router,19,NetSpring,SIM-enabled router for wireless broadband connectivity,11,USD,NetSpring Distribution,5,In Stock,True
+EL082,Networking,Wi-Fi Range Extender,119,NetSpring,Plug-in range extender for improving coverage in weak-signal areas,20,USD,NetSpring Distribution,5,In Stock,True
+EL083,Networking,USB Wi-Fi Adapter AC,89,LinkPort,Compact dual-band USB wireless adapter for desktop computers,26,USD,LinkPort Distribution,5,In Stock,True
+EL084,Accessories,USB-C Dock 10-in-1,19,LinkPort,"Multiport dock with HDMI, USB, Ethernet and card-reader ports",12,USD,LinkPort Distribution,5,In Stock,True
+EL085,Accessories,65W GaN Charger,9,VoltEdge,"Compact 65W USB-C charger for compatible phones, tablets and laptops",25,USD,VoltEdge Distribution,5,In Stock,True
+EL086,Accessories,100W GaN Charger,39,VoltEdge,100W multiport USB-C charger for compatible high-power devices,17,USD,VoltEdge Distribution,5,In Stock,True
+EL087,Accessories,USB-C Cable 2m,29,VoltEdge,Two-meter braided USB-C charging and data cable,50,USD,VoltEdge Distribution,5,In Stock,True
+EL088,Accessories,Power Bank 10000mAh,149,VoltEdge,Portable 10000mAh power bank with USB-C output,34,USD,VoltEdge Distribution,5,In Stock,True
+EL089,Accessories,Power Bank 20000mAh PD,99,VoltEdge,20000mAh power bank with USB-C Power Delivery support,22,USD,VoltEdge Distribution,5,In Stock,True
+EL090,Accessories,UPS 1000VA,14,VoltEdge,Line-interactive backup UPS for computers and networking equipment,8,USD,VoltEdge Distribution,5,Reorder Soon,True
+EL091,Accessories,Surge Protector 6-Way,39,VoltEdge,Six-outlet surge protector with overload protection,24,USD,VoltEdge Distribution,5,In Stock,True
+EL092,Accessories,External SSD 1TB,69,DataTrail,Portable 1TB solid-state drive with USB-C connectivity,13,USD,DataTrail Distribution,5,In Stock,True
+EL093,Accessories,External HDD 2TB,9,DataTrail,Portable 2TB hard drive for backups and file storage,15,USD,DataTrail Distribution,5,In Stock,True
+EL094,Accessories,USB Flash Drive 128GB,59,DataTrail,128GB USB flash drive for everyday file transfer,45,USD,DataTrail Distribution,5,In Stock,True
+EL095,Accessories,SDXC Card 256GB,7,DataTrail,256GB memory card for compatible cameras and devices,19,USD,DataTrail Distribution,5,In Stock,True
+EL096,Accessories,Laptop Sleeve 14-inch,19,CarryMate,Padded sleeve for compatible 14-inch laptops,27,USD,CarryMate Distribution,5,In Stock,True
+EL097,Accessories,Laptop Stand Aluminum,29,CarryMate,Adjustable aluminum stand for improved laptop positioning,18,USD,CarryMate Distribution,5,In Stock,True
+EL098,Accessories,Wireless Office Keyboard,39,KeyCraft,Quiet wireless keyboard for home and office productivity,23,USD,KeyCraft Distribution,5,In Stock,True
+EL099,Accessories,Wireless Office Mouse,19,KeyCraft,Ergonomic wireless mouse with adjustable sensitivity,31,USD,KeyCraft Distribution,5,In Stock,True
+EL100,Accessories,HDMI 2.1 Cable 2m,12,LinkPort,Two-meter HDMI cable for compatible high-resolution displays,29,USD,LinkPort Distribution,5,In Stock,True
