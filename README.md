@@ -1,4 +1,4 @@
-# Electra-AI-E-Commerce-Shopping-Assistant 
+# Electra:AI-E-Commerce-Shopping-Assistant 
 
 A lightweight, web-based shopping assistant that helps customers find electronics through natural-language-style queries. Built with **Python, Flask, HTML, CSS, and JavaScript**, the application searches a fictional catalogue of 100 electronics products and displays matching items with prices, descriptions, and stock information.
 
